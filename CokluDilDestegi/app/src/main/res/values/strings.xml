@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CokluDilDestegi</string>
+    <string name="title">Hello</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="buttonText">Log In</string>
+</resources>

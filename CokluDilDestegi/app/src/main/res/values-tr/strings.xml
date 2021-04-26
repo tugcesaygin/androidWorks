@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CokluDilDestegi</string>
+    <string name="title">Merhaba</string>
+    <string name="usernameHint">Kullanıcı Adı</string>
+    <string name="passwordHint">Şifre</string>
+    <string name="buttonText">Giriş</string>
+</resources>
